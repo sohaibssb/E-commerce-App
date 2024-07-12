@@ -18,6 +18,10 @@ In this section, I'm sharing some screenshots taken while I was working on and b
 -Add Product - MongoDB
 ![AddProduct-MongoDB](05-AddProduct.png)
 
+-Get Orders - MongoDB
+![GetOrders-MongoDB](06-GetOrders.png)
+
+
 
 
 
